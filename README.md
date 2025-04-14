@@ -1,10 +1,23 @@
 # Hi there 👋 welcome to my GitHub Page!
 
-My name is Barrath, you can read more about me on my portfolio [here](https://barrathtb-portfolio.vercel.app).
+My name is [Your Name], you can read more about me on my portfolio [here](https://barrathtb-portfolio.vercel.app).
 
-I am a Engineer passionate about building innovative software & applications. I excel at finding unique solutions that solve complicated business needs.
+I am a developer passionate about building web applications, AI solutions, and cloud-native systems. I've been using GitHub since [Year].
 
-| Primary Languages | Main Frameworks & Libraries | Tools |
-|-------------------|----------------------------|-------|
-| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://barrathtb-portfolio.vercel.app) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://barrathtb-portfolio.vercel.app) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://barrathtb-portfolio.vercel.app) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://barrathtb-portfolio.vercel.app) | [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://barrathtb-portfolio.vercel.app) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://barrathtb-portfolio.vercel.app) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://barrathtb-portfolio.vercel.app) | [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://barrathtb-portfolio.vercel.app) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://barrathtb-portfolio.vercel.app) |
+| Primary Languages | Main Frameworks & Libraries | 2&3D Design Tools |
+|-------------------|----------------------------|-------------------|
+| [C#] [JS] [TS] [Java] [Dart] | [.NET] [React] [Next] [Node] [Vue] | [Cesium.js] [Chart.js] [ArcGIS] |
+
+| Secondary Languages | Other Frameworks & Libraries | AI & Cloud Tools |
+|---------------------|------------------------------|------------------|
+| [HTML] [CSS]  [Python] | [Spring Boot] [Flutter] [React Native] [MAUI] | [LangFlow] [LlamaIndex] [Anthropic] [OpenAI API] [LLM Training] [Ollama] |
+
+| Cloud Platforms | Databases & Backend | UI Frameworks |
+|-----------------|----------------------|----------------|
+| [AWS] [Azure] [GCP] | [SQL Server] [Azure SQL] [MySQL] [PostgreSQL] [NoSQL] [Supabase] [Firebase] [Elastic] [DataBricks] | [Vuetify] [Material UI] [Quasar] [Element Plus] [Vuestic] [Bootstrap] [Next UI] [Tailwind UI] |
+
+| DevOps & Containerization | Additional Libraries | Geospatial Tools |
+|---------------------------|----------------------|-------------------|
+| [Docker] | [NLog] [SignalR] [Swashbuckle] [Automapper] [LINQ] | [ESRI] |
+
 
